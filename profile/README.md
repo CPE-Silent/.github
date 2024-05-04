@@ -8,3 +8,4 @@ NFT-based Student identity
 |Flutter|[Repo](https://github.com/CPE-Silent/mod-id-flutter)|n/a|
 |Web|[Repo](https://github.com/CPE-Silent/mod-id-web)|n/a|
 |Api|[Repo](https://github.com/CPE-Silent/mod-id-api)|n/a|
+|Contract|[Repo](https://github.com/StanG12/mod-id-contract)|n/a|
