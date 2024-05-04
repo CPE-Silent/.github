@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+### Senior Project - ModID
+NFT-based Student identity
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+||Repo|Actions|
+|:---:|:---:|:---:|
+|Flutter|[Repo](https://github.com/gkana19/mod-id-ui)|n/a|
+|Web|[Repo]()|n/a|
+|Api|[Repo](https://github.com/CPE-Silent/mod-id-api)|n/a|
